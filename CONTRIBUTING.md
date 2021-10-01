@@ -9,11 +9,11 @@ Your contributions are always welcome!
   - Write down the reason why the library is awesome.
 - Add the link: `* [project-name](http://example.com/) - A short description ends with a period.`
   - Keep descriptions concise and **short**.
-- Add a section if needed.
-  - Add the section description.
-  - Add the section title to Table of Contents.
+- Add a programming language if needed.
+  - Add the programming language title to Table of Contents.
 - Search previous Pull Requests or Issues before making a new one, as yours may be a duplicate.
-- Don't mention `Python` in the description as it's implied.
+- Don't mention `Open Source` in the description as it's implied.
+- Follow the format in which the projects are maintained in the README.
 - Don't write the website links, projects's public repository link of only Github/Bitbucket/Gitlab are allowed.
 - Check your spelling and grammar.
 - Remove any trailing whitespace.
